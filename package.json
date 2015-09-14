@@ -1,5 +1,5 @@
 {
-  "name": "sharepoint",
+  "name": "node-spoauth",
   "description": "Authenticate in SharePoint Online with node.js",
   "version": "1.0.0",
   "homepage": "https://github.com/s-KaiNet/node-spoauth",
