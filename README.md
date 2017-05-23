@@ -1,5 +1,5 @@
-# node-spoauth
+## node-spoauth
 
-Contains method for acquiring authentication cookies for SharePoint Online.   
-  
-Completely based on currently not supported [node-sharepoint](https://github.com/lstak/node-sharepoint) project. 
+# DEPERECATED
+
+## Please use [https://github.com/s-KaiNet/node-sp-auth](https://github.com/s-KaiNet/node-sp-auth)
